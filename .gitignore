@@ -1,0 +1,4 @@
+check_cpu/check_cpu
+check_memory/check_memory
+check_mongo/check_mongo
+check_redis/check_redis
